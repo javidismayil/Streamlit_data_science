@@ -8,11 +8,11 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from PIL import Image
-import seaborn as sns
-import matplotlib.pyplot as plt
-icon = Image.open(r'D:\JAVID_ISMAYILOV_PROF\MB\QSS\python\week8\myproject\1702665115899.jpg')
-banner = Image.open(r'D:\JAVID_ISMAYILOV_PROF\MB\QSS\python\week8\myproject\1702664939130.jpg')
-sidebar = Image.open(r'D:\JAVID_ISMAYILOV_PROF\MB\QSS\python\week8\myproject\1702665115899.jpg')
+#import seaborn as sns
+#import matplotlib.pyplot as plt
+#icon = Image.open(r'D:\JAVID_ISMAYILOV_PROF\MB\QSS\python\week8\myproject\1702665115899.jpg')
+#banner = Image.open(r'D:\JAVID_ISMAYILOV_PROF\MB\QSS\python\week8\myproject\1702664939130.jpg')
+#sidebar = Image.open(r'D:\JAVID_ISMAYILOV_PROF\MB\QSS\python\week8\myproject\1702665115899.jpg')
 
 
 st.set_page_config(page_title = 'AnalyticaView', page_icon = icon, layout = 'wide')
