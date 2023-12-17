@@ -10,7 +10,7 @@ import numpy as np
 from PIL import Image
 #import seaborn as sns
 #import matplotlib.pyplot as plt
-#icon = Image.open(r'1702665115899.jpg')
+icon = Image.open(r'1702665115899.jpg')
 #banner = Image.open(r'1702665115899.jpg')
 #sidebar = Image.open(r'1702665115899.jpg')
 
