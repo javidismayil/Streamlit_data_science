@@ -15,9 +15,9 @@ from PIL import Image
 #sidebar = Image.open(r'D:\JAVID_ISMAYILOV_PROF\MB\QSS\python\week8\myproject\1702665115899.jpg')
 
 
-st.set_page_config(page_title = 'AnalyticaView', page_icon = icon, layout = 'wide')
-st.sidebar.image(sidebar.resize((320, 180)))
-st.image(banner.resize((800,360)))
+#st.set_page_config(page_title = 'AnalyticaView', page_icon = icon, layout = 'wide')
+#st.sidebar.image(sidebar.resize((320, 180)))
+#st.image(banner.resize((800,360)))
 st.sidebar.markdown("""
       <style>
        .st-emotion-cache-vk3wp9{
