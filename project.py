@@ -11,13 +11,13 @@ from PIL import Image
 #import seaborn as sns
 #import matplotlib.pyplot as plt
 icon = Image.open(r'1702665115899.jpg')
-#banner = Image.open(r'1702665115899.jpg')
-#sidebar = Image.open(r'1702665115899.jpg')
+banner = Image.open(r'1702665115899.jpg')
+sidebar = Image.open(r'1702665115899.jpg')
 
 
-#st.set_page_config(page_title = 'AnalyticaView', page_icon = icon, layout = 'wide')
-#st.sidebar.image(sidebar.resize((320, 180)))
-#st.image(banner.resize((800,360)))
+st.set_page_config(page_title = 'AnalyticaView', page_icon = icon, layout = 'wide')
+st.sidebar.image(sidebar.resize((320, 180)))
+st.image(banner.resize((800,360)))
 st.sidebar.markdown("""
       <style>
        .st-emotion-cache-vk3wp9{
