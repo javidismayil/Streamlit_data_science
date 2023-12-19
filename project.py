@@ -8,10 +8,10 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from PIL import Image
-pip install seaborn
-pip install matplotlib.pyplot
-import seaborn as sns
-import matplotlib.pyplot as plt
+#pip install seaborn
+#pip install matplotlib.pyplot
+#import seaborn as sns
+#import matplotlib.pyplot as plt
 icon = Image.open(r'1702665115899.jpg')
 banner = Image.open(r'1702664939130.jpg')
 sidebar = Image.open(r'1702665115899.jpg')
